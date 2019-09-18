@@ -84,11 +84,7 @@ def obtain_prediction(feature_len, total, class_0, class_1, test_dataset):
 		predictions.append(key_max)	
 	
 	return predictions
- 
-def test_accuracy(predictions, actual_labels):
-	"""
-	Test how accurate the prediction was to the test cases labels
-	"""
+
 def test_accuracy(predictions, actual_labels):
 	"""
 	Test how accurate the prediction was to the test cases labels

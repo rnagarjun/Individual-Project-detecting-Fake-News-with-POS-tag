@@ -1,0 +1,7 @@
+Empherical Risk Minimization
+Agnostic PAC
+Learning Via Uniform Convergence
+Bias-Complexity Tradeoff
+  - No free lunch theorem
+  - Error decomposition
+VC Dimention

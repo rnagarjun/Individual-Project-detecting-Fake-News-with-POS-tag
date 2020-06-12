@@ -1,7 +1,7 @@
 # Project Info
 
 This project contains couple of Machine Learning Algorithms
-Both implemented from scratch and ones using SciKit learn library.
+Both implemented from scratch and ones using SciKit learn library to try and see if is POS tags can be used to successfully classify an news article as authentic or not.
 
 ## Installation
 
